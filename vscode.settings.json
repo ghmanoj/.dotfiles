@@ -1,0 +1,33 @@
+{
+    "telemetry.telemetryLevel": "off",
+    "extensions.autoCheckUpdates": false,
+    "extensions.autoUpdate": false,
+    "workbench.startupEditor": "none",
+    "editor.fontFamily": "Hack",
+    "editor.minimap.enabled": false,
+    "terminal.integrated.defaultProfile.osx": "zsh",
+    "extensions.ignoreRecommendations": true,
+    "editor.detectIndentation": false,
+    "workbench.enableExperiments": false,
+    "workbench.settings.enableNaturalLanguageSearch": true,
+    "update.mode": "manual",
+    "update.showReleaseNotes": false,
+    "workbench.editor.untitled.hint": "hidden",
+    "explorer.confirmDragAndDrop": false,
+    "security.workspace.trust.untrustedFiles": "open",
+    "security.workspace.trust.enabled": false,
+    "C_Cpp.formatting": "vcFormat",
+    "code-runner.executorMap": {
+        "cpp": "cd $dir && clang++ -std=c++17 $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt"
+    },
+    "editor.fontSize": 14,
+    "editor.lineHeight": 17,
+    "debug.console.fontSize": 12,
+    "terminal.integrated.fontSize": 12,
+    "breadcrumbs.enabled": false,
+    "editor.guides.highlightActiveIndentation": false,
+    "editor.guides.indentation": false,
+    "editor.letterSpacing": -0.40,
+    "razor.trace": "Messages"
+}
+
